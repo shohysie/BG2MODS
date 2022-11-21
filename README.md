@@ -1,7 +1,7 @@
 <div align="center"><h1></a>Diablo2 Kit Pack Series v1.0</h1>
 
-<h3>Including: D2ama v0.9, D2asn v0.4, D2bar v1.3, D2dru v0.5, D2nec v0.8, D2pal v1.1, D2sor v0.4<h3>
 <h3>A mod for Baldur's Gate I & II EE, classical ToB, Baldur's Gate Trilogy and EET<h3>
+<h3>Including: D2ama v0.9, D2asn v0.4, D2bar v1.3, D2dru v0.5, D2nec v0.8, D2pal v1.1, D2sor v0.4<h3>
 
 </div><br>
 
